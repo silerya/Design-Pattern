@@ -1,0 +1,62 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "设计模式", "设计模式\设计模式.vcxproj", "{C7E7A617-C7BC-4F69-9DC1-E6DB09508D8A}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "工厂模式", "工厂模式\工厂模式.vcxproj", "{37BDA383-0385-48A8-A8FB-0A1FDBC7A45E}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "抽象工厂", "抽象工厂\抽象工厂.vcxproj", "{F003F8EC-6183-44A9-85F1-7C86BCEC29E3}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Builder模式(生成器)", "Builder模式(生成器)\Builder模式(生成器).vcxproj", "{37C6382E-C231-4877-AD45-FDD9E807E8ED}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Prototype 原型模式", "Prototype 原型模式\Prototype 原型模式.vcxproj", "{7721A08E-826C-48C4-911A-EA8320968D6A}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Singleton 模式(单例)", "Singleton 模式(单例)\Singleton 模式(单例).vcxproj", "{07D1F8DC-3A01-4267-841F-786E985F8006}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Component组合模式", "Component组合模式\Component组合模式.vcxproj", "{6C628AFC-CF45-4A58-9234-02674E80AC59}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Decorator 装饰器模式", "Decorator 装饰器模式\Decorator 装饰器模式.vcxproj", "{4AE3C461-E346-4AD2-883C-80BE8DF266D7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C7E7A617-C7BC-4F69-9DC1-E6DB09508D8A}.Debug|Win32.ActiveCfg = Debug|Win32
+		{C7E7A617-C7BC-4F69-9DC1-E6DB09508D8A}.Debug|Win32.Build.0 = Debug|Win32
+		{C7E7A617-C7BC-4F69-9DC1-E6DB09508D8A}.Release|Win32.ActiveCfg = Release|Win32
+		{C7E7A617-C7BC-4F69-9DC1-E6DB09508D8A}.Release|Win32.Build.0 = Release|Win32
+		{37BDA383-0385-48A8-A8FB-0A1FDBC7A45E}.Debug|Win32.ActiveCfg = Debug|Win32
+		{37BDA383-0385-48A8-A8FB-0A1FDBC7A45E}.Debug|Win32.Build.0 = Debug|Win32
+		{37BDA383-0385-48A8-A8FB-0A1FDBC7A45E}.Release|Win32.ActiveCfg = Release|Win32
+		{37BDA383-0385-48A8-A8FB-0A1FDBC7A45E}.Release|Win32.Build.0 = Release|Win32
+		{F003F8EC-6183-44A9-85F1-7C86BCEC29E3}.Debug|Win32.ActiveCfg = Debug|Win32
+		{F003F8EC-6183-44A9-85F1-7C86BCEC29E3}.Debug|Win32.Build.0 = Debug|Win32
+		{F003F8EC-6183-44A9-85F1-7C86BCEC29E3}.Release|Win32.ActiveCfg = Release|Win32
+		{F003F8EC-6183-44A9-85F1-7C86BCEC29E3}.Release|Win32.Build.0 = Release|Win32
+		{37C6382E-C231-4877-AD45-FDD9E807E8ED}.Debug|Win32.ActiveCfg = Debug|Win32
+		{37C6382E-C231-4877-AD45-FDD9E807E8ED}.Debug|Win32.Build.0 = Debug|Win32
+		{37C6382E-C231-4877-AD45-FDD9E807E8ED}.Release|Win32.ActiveCfg = Release|Win32
+		{37C6382E-C231-4877-AD45-FDD9E807E8ED}.Release|Win32.Build.0 = Release|Win32
+		{7721A08E-826C-48C4-911A-EA8320968D6A}.Debug|Win32.ActiveCfg = Debug|Win32
+		{7721A08E-826C-48C4-911A-EA8320968D6A}.Debug|Win32.Build.0 = Debug|Win32
+		{7721A08E-826C-48C4-911A-EA8320968D6A}.Release|Win32.ActiveCfg = Release|Win32
+		{7721A08E-826C-48C4-911A-EA8320968D6A}.Release|Win32.Build.0 = Release|Win32
+		{07D1F8DC-3A01-4267-841F-786E985F8006}.Debug|Win32.ActiveCfg = Debug|Win32
+		{07D1F8DC-3A01-4267-841F-786E985F8006}.Debug|Win32.Build.0 = Debug|Win32
+		{07D1F8DC-3A01-4267-841F-786E985F8006}.Release|Win32.ActiveCfg = Release|Win32
+		{07D1F8DC-3A01-4267-841F-786E985F8006}.Release|Win32.Build.0 = Release|Win32
+		{6C628AFC-CF45-4A58-9234-02674E80AC59}.Debug|Win32.ActiveCfg = Debug|Win32
+		{6C628AFC-CF45-4A58-9234-02674E80AC59}.Debug|Win32.Build.0 = Debug|Win32
+		{6C628AFC-CF45-4A58-9234-02674E80AC59}.Release|Win32.ActiveCfg = Release|Win32
+		{6C628AFC-CF45-4A58-9234-02674E80AC59}.Release|Win32.Build.0 = Release|Win32
+		{4AE3C461-E346-4AD2-883C-80BE8DF266D7}.Debug|Win32.ActiveCfg = Debug|Win32
+		{4AE3C461-E346-4AD2-883C-80BE8DF266D7}.Debug|Win32.Build.0 = Debug|Win32
+		{4AE3C461-E346-4AD2-883C-80BE8DF266D7}.Release|Win32.ActiveCfg = Release|Win32
+		{4AE3C461-E346-4AD2-883C-80BE8DF266D7}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

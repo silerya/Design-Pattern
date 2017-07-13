@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Builder">
+    <Position X="1.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAgAAAAAABAIAAAAAAAAAAA=</HashCode>
+      <FileName>Builder模式(生成器).cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Director">
+    <Position X="5.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAAAAAAgCAAAAAAAAAAAAAAAAAAAAAAAAAAEAA=</HashCode>
+      <FileName>Builder模式(生成器).cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConcreteBuilder1">
+    <Position X="0.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAIAAAAAEAAAAA=</HashCode>
+      <FileName>Builder模式(生成器).cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConcreteBuilder2">
+    <Position X="3.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAIAAAAA=</HashCode>
+      <FileName>Builder模式(生成器).cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="微软雅黑" Size="9" />
+</ClassDiagram>
